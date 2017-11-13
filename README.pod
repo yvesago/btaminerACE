@@ -1,13 +1,3 @@
-#!/usr/bin/perl 
-use strict;
-use warnings;
-use feature 'say';
-use utf8;
-use Getopt::Long qw(GetOptions);
-use JSON qw( decode_json encode_json );
-use Encode;
-use MongoDB;
-
 =head1 NAME
 
 btaminerAce.pl - a perl miner for BTA to work with NTSecurityDescriptor
