@@ -668,4 +668,4 @@ LICENSE file included with this module.
 
 A small fork of OVALI to watch json graphs : L<https://github.com/yvesago/OVALI>
 
-JRES 2017: ...
+JRES 2017: L<https://conf-ng.jres.org/2017/document_revision_2002.html?download>
